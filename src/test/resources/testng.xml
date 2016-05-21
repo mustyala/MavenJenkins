@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="My suite">
+<listeners>
+    <listener class-name="com.qtpselenium.listener.TestsListenerAdapter" />
+</listeners>
+
+<test name="login">
+	<classes>
+	  <class name="com.Module9_testng_maven.AppTest"></class>
+	
+	</classes>
+</test>
+
+
+<test name="sampletest">
+	<classes>
+	  <class name="com.Module9_testng_maven.SampleTest"></class>
+	
+	</classes>
+</test>
+
+</suite>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="28" started-at="2016-04-11T02:51:44Z" finished-at="2016-04-11T02:51:44Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="28" started-at="2016-04-11T02:51:44Z" finished-at="2016-04-11T02:51:44Z">
+      <class name="com.Module9_testng_maven.AppTest">
+        <test-method status="PASS" signature="Logintest()[pri:0, instance:com.Module9_testng_maven.AppTest@56cbfb61]" name="Logintest" duration-ms="11" started-at="2016-04-11T12:51:44Z" finished-at="2016-04-11T12:51:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+      </class> <!-- com.Module9_testng_maven.AppTest -->
+      <class name="com.Module9_testng_maven.SampleTest">
+        <test-method status="PASS" signature="sampletest()[pri:0, instance:com.Module9_testng_maven.SampleTest@49e4cb85]" name="sampletest" duration-ms="1" started-at="2016-04-11T12:51:44Z" finished-at="2016-04-11T12:51:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampletest -->
+      </class> <!-- com.Module9_testng_maven.SampleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
